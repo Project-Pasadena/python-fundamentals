@@ -16,9 +16,9 @@ print(address) # printing the string
 
 
 
-is_python_fun = True;
+is_python_fun = True
 
-print(is_python_fun);
+print(is_python_fun)
 
-senior_developer = False;
-print(senior_developer);
+senior_developer = False # bool.
+print(senior_developer)
