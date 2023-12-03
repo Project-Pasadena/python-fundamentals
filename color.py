@@ -8,4 +8,4 @@
 name = input('What is your name')
 color = input('what is your favourite color')
 
-print('hello '+name+'Your favourite color is' + color)
+print('hello '+name+'Your favourite color is' + color)  
