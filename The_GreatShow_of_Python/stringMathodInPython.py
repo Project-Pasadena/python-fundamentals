@@ -17,3 +17,7 @@ print(name.capitalize())
 
 
 print(name.lower())
+
+# print in upper or to upper
+
+print(name.upper())
