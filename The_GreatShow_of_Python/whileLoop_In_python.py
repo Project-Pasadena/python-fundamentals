@@ -5,9 +5,18 @@
 #     print("i am stuck")
 
 
-name = ""
+# name = ""
 
-while len(name)==0:
-    name=input("enter you name please : ")
+# while len(name)==0:
+#     name=input("enter you name please : ")
 
-print("Hello "+name )
+# print("Hello "+name )
+
+
+
+address = None
+
+while not address:
+    address = input("What is your address ? ")
+    
+print(address)
